@@ -1,0 +1,21 @@
+{
+  "name": "baidunews",
+  "version": "1.0.0",
+  "description": "爬虫from百度",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "爬虫",
+    "node",
+    "express"
+  ],
+  "author": "yuanxin",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "superagent": "^4.0.0"
+  }
+}

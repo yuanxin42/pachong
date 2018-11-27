@@ -1,4 +1,4 @@
-#技术栈： node + express + cheerio + cheerio
+# 技术栈： node + express + cheerio + cheerio
 
 > 爬虫爬取百度新闻页 news.baidu.com
 
